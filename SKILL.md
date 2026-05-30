@@ -8,8 +8,7 @@ argument-hint: [topic, framework name, or chapter number]
 ---
 
 # Crossing the Chasm
-**Author**: Geoffrey A. Moore | **Edition**: 3rd (2014) | **Chapters**: 7 + Intro/Conclusion/2 Appendices | **Generated**: 2026-05-27
-
+**Author**: Geoffrey A. Moore | **Edition**: 3rd (2014) | **Chapters**: 7 + Intro/Conclusion/2 Appendices 
 ## How to Use This Skill
 
 - **Without arguments** → load core frameworks below for general market-strategy work.
